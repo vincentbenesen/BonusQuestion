@@ -1,9 +1,8 @@
-#Author 
-My name is Vincent Benesen. Im a student at Vanier college.
-
-
 # BonusQuestion
 This repository is composed of 2 classe; a Main Class called (BookQuestion) and a Service Class called (Question)
+
+#Author 
+My name is Vincent Benesen. Im a student at Vanier college.
 
 #Classes
 
